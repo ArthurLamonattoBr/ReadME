@@ -28,8 +28,6 @@ Sou um estudante apaixonado por tecnologia, programação e desenvolvimento de j
 
 ## 🛠️ Habilidades & Ferramentas
 
-## 🛠️ Habilidades & Ferramentas
-
 <p align="left">
   <!-- Linguagens -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -47,10 +45,8 @@ Sou um estudante apaixonado por tecnologia, programação e desenvolvimento de j
   <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Studio"/>
   <img src="https://img.shields.io/badge/Minecraft%20Modding-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft Modding"/>
 
-  <!-- Backend & Database -->
+  <!-- Backend & Outros -->
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-
-  <!-- Versionamento -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
