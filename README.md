@@ -9,17 +9,8 @@ Sou um estudante apaixonado por tecnologia, programação e desenvolvimento de j
 - **Linguagens:** Python, C++, JavaScript
 - **Game Development:** Unity, GameMaker, Roblox Studio
 - **Backend:** Node.js, Firebase
-- **Outros:** Git, Markdown, Criação de linguagens de marcação próprias
-
+- **Outros:** Git, Markdown
 ---
-
-## 🚀 Principais Áreas de Interesse
-
-- Desenvolvimento de jogos (Sandbox, RTS, Horror, Simulação)
-- Criação de ferramentas e linguagens personalizadas
-- Backend para sistemas de monitoramento e gestão
-- Projetos de ficção interativa e analog horror
-- Mods e customizações para jogos (Minecraft, Roblox)
 
 ---
 
@@ -35,21 +26,18 @@ Sou um estudante apaixonado por tecnologia, programação e desenvolvimento de j
 
 ---
 
-## 🌱 Projetos em andamento
+## 🛠️ Habilidades & Ferramentas
 
-- Sistema de backend para empresa de serviços de terraplenagem
-- Mod de Minecraft inspirado em **Galacticraft**
-- RTS geopolítico no Roblox
-- Engine de analog horror com foco em narrativa e ambientação
-- Ferramentas para facilitar o desenvolvimento em português
-
----
-
-## 📫 Contato
-
-Sinta-se à vontade para explorar os repositórios e entrar em contato através do GitHub Issues ou via [LinkedIn](https://www.linkedin.com/) *(link fictício, edite se quiser)*.
-
----
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+  <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Studio"/>
+  <img src="https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=yoyogames&logoColor=white" alt="GameMaker Studio"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
 
 > Sempre aprendendo, sempre criando.
 
