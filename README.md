@@ -6,7 +6,7 @@ Sou um estudante apaixonado por tecnologia, programação e desenvolvimento de j
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens:** Python, C++, JavaScript
+- **Linguagens:** Python, C++, JavaScript, Java
 - **Game Development:** Unity, GameMaker, Roblox Studio
 - **Backend:** Node.js, Firebase
 - **Outros:** Git, Markdown
