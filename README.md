@@ -12,8 +12,6 @@ Sou um estudante apaixonado por tecnologia, programação e desenvolvimento de j
 - **Outros:** Git, Markdown
 ---
 
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
