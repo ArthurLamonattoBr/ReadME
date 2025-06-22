@@ -26,7 +26,7 @@ Sou um estudante apaixonado por tecnologia, programação e desenvolvimento de j
 
 ---
 
-## 🛠️ Habilidades & Ferramentas
+## 💻 Linguagens e Frameworks
 
 <p align="left">
   <!-- Linguagens -->
